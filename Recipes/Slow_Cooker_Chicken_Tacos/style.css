@@ -1,0 +1,16 @@
+/* Targeting the Body*/
+body{
+    background-color: rgb(241, 241, 241);
+}
+
+/* Targeting the first Image*/
+#Full-mean{
+    height:auto;
+    width: 750px; 
+}
+
+/* Targeting Headings*/
+h1,h2,h3{
+    text-align: center;
+}
+
