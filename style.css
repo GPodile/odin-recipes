@@ -1,0 +1,19 @@
+body{
+    background-color:rgb(109, 106, 106);
+    color: black;
+}
+
+h1 {
+    text-align: center;
+    font-size: 70px;
+}
+
+li  {
+    font-size:30px;
+    text-align: center;     
+}
+
+a {
+    color: black; /* This appears link plain text, not link to other pages */
+}
+
