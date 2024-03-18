@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(109, 106, 106);
+    color: black;
+}
+
+#Full-meal{
+    height: auto;
+    width: 750px;
+}
+
+h1,h2,h3{
+    text-align: center;
+}
