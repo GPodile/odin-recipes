@@ -1,13 +1,28 @@
-body {
-    background-color:rgb(241, 241, 241);
-    color: black;
+*,
+*::before,*::after{
+    box-sizing: border-box;
 }
 
-h1,h2,h3,h4 {
+* {
+    background-color: #3aafa9;
+    outline: 1px solid black;
+    margin:10px;  
+}
+
+.title{
     text-align: center;
 }
 
-#Full-meal{
-    height: auto;
-    width: 500px;
+#full-meal{
+    margin:100px;
+}
+
+.description{
+    text-align: center;
+    font-size: 40px;
+}
+
+h3{
+    text-align: center;
+    font-size: 35px;
 }

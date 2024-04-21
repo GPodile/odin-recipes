@@ -24,6 +24,7 @@ body {
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
     border: 3px double white;
+    padding: 10px;
 }
 
 #tacos{
@@ -31,6 +32,7 @@ body {
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
     border: 3px double white;
+    padding: 10px;
 }
 
 #sandwich{
@@ -38,4 +40,5 @@ body {
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
     border: 3px double white;
+    padding: 10px;
 }

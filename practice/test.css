@@ -1,0 +1,41 @@
+*,
+*::before, *::after{
+   box-sizing: border-box;
+}
+
+body{
+   background: lightgray;
+}
+
+.card{
+   background:  white;
+   width:400px;
+   margin: 16px auto;
+   padding: 8px;
+   font-size: 16px;
+}
+
+.one{ 
+   background: lightblue;
+   font-size: 16px;
+   padding: 8px;
+   margin-bottom: 8px;
+}
+
+.two{
+   background: lightblue;
+   padding: 8px 16px;
+}
+
+.three{
+   text-align: center;
+   background: lightblue;
+   padding: 8px;
+}
+
+.button{
+   display:block;
+   padding: 16px;
+   margin: 0px auto;
+   padding: 8px 24px;
+}
