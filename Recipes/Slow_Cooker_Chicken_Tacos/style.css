@@ -4,13 +4,32 @@ body{
 }
 
 /* Targeting the first Image*/
-#Full-mean{
+#Full-meal{
     height:auto;
-    width: 750px; 
+    width: 600px; 
+    margin-left: 400px;
 }
 
 /* Targeting Headings*/
-h1,h2,h3{
+.header{
     text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 40px;
+}
+.title{
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 25px;
+}
+
+/*Targeting list*/
+.list{
+    border:3px solid orange;
+}
+
+li{
+    padding:3px;
 }
 

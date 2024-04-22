@@ -4,16 +4,20 @@
 }
 
 * {
-    background-color: white;
+    background-color: rgb(241, 241, 241);
     margin:10px;  
 }
 
 .title{
     text-align: center;
+    background-color:black;
+    color:white;
 }
 
-#full-meal{
-    margin:100px;
+#Full-meal{
+    width: 750px;
+    margin: 0px 100px 20px 300px;
+
 }
 
 .description{
@@ -24,4 +28,9 @@
 h3{
     text-align: center;
     font-size: 35px;
+}
+
+.list{
+    border: 3px solid orange;
+    margin-bottom:20px;
 }
