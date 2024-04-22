@@ -1,5 +1,0 @@
-/*I havent understood this*/
-*, 
-*::before, *::after{
-    box-sizing: inherit;
-}
